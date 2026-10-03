@@ -1,3 +1,6 @@
+PREVIEW --> CODE ĐỂ ĐỌC FILE NÀY CHO CHÍNH XÁC
+
+
 ├── assets/                         ← Toàn bộ ảnh (496 MB)
 │   │
 │   ├── products/                   ← Ảnh sản phẩm (7 phong cách)
